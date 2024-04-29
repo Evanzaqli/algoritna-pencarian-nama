@@ -1,2 +1,2 @@
-# algoritna-pencarian-nama
+# algoritma-pencarian-nama
 Tugas kecerdasan buatan Algoritma pencarian
